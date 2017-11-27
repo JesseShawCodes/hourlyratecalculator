@@ -8,7 +8,7 @@ export default function Output(props) {
                 ${props.value}
             </output>
         </div>
-    );
+    ); 
 }
 
 Output.defaultProps = {
